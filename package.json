@@ -1,0 +1,22 @@
+{
+  "name": "node-schedule-bark",
+  "version": "1.0.0",
+  "description": "nodejs 定时发送提醒到bark",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmiyaGm/node-schedule-bark.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmiyaGm/node-schedule-bark/issues"
+  },
+  "homepage": "https://github.com/EmiyaGm/node-schedule-bark#readme",
+  "dependencies": {
+    "node-schedule": "^2.0.0"
+  }
+}
